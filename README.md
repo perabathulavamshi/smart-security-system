@@ -58,18 +58,6 @@ The Smart Security System is an IoT-based home security solution designed to enh
 
 ---
 
-## 📁 Repository Structure
-```
-|-- data/                     # Training data and captured images
-|-- scripts/                  # Python scripts for detection and automation
-|-- README.md                 # Project overview and usage guide
-|-- face_recognize.py         # Main script for facial recognition
-|-- create_data.py            # Script to capture training data
-|-- servo_raspi.py            # Servo motor control script
-```
-
----
-
 ## 📩 Contact
 For questions or collaboration:
 
